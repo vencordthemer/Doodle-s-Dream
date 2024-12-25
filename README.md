@@ -1,4 +1,4 @@
-# Doodle-s-Dream
+# Doodle's Dream 
 
 A theme with a doodle background
 
